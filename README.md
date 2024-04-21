@@ -10,7 +10,9 @@ Technologies Used
 
 Dataset
 
-The CIFAR-10 dataset consists of 60,000 32x32 color images across 10 different classes, with 50,000 images for training and 10,000 for testing. We applied random horizontal flips for data augmentation and used PyTorch's DataLoader for efficient batch processing.
+The CIFAR-10 dataset, utilized in this project, comprises 60,000 32x32 color images spanning 10 different classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), with each class containing 6,000 images. This dataset is split into 50,000 training images and 10,000 testing images. It was sourced from the official CIFAR-10 dataset page hosted by the Canadian Institute for Advanced Research (CIFAR) at University of Toronto. We employed data augmentation techniques such as random horizontal flips to enhance the model's generalization capabilities during training.
+
+Link : https://www.cs.toronto.edu/~kriz/cifar.html
 
 Model Architecture
 
