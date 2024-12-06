@@ -1,6 +1,6 @@
 # CIFAR-10-VisionForge
 
-CIFAR-10 Vision Forge is a deep learning project that optimizes a neural network to classify images from the CIFAR-10 dataset, enhancing model architecture and tuning hyperparameters to achieve a peak testing accuracy of 86.14%
+CIFAR-10 Vision Forge is a Neural Network and deep Learning Project that optimizes a neural network to classify images from the CIFAR-10 dataset, enhancing model architecture and tuning hyperparameters to achieve a peak testing accuracy of 86.14%
 
 Technologies Used
 
@@ -10,7 +10,7 @@ Technologies Used
 
 Dataset
 
-The CIFAR-10 dataset, utilized in this project, comprises 60,000 32x32 color images spanning 10 different classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), with each class containing 6,000 images. This dataset is split into 50,000 training images and 10,000 testing images. It was sourced from the official CIFAR-10 dataset page hosted by the Canadian Institute for Advanced Research (CIFAR) at University of Toronto. We employed data augmentation techniques such as random horizontal flips to enhance the model's generalization capabilities during training.
+The CIFAR-10 dataset, utilized in this project, comprises 60,000 (32x32 color images) spanning 10 different classes (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck), with each class containing 6,000 images. This dataset is split into 50,000 training images and 10,000 testing images. It was sourced from the official CIFAR-10 dataset page hosted by the Canadian Institute for Advanced Research (CIFAR) at University of Toronto. We employed data augmentation techniques such as random horizontal flips to enhance the model's generalization capabilities during training.
 
 Link : https://www.cs.toronto.edu/~kriz/cifar.html
 
